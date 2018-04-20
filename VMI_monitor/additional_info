@@ -1,0 +1,2 @@
+Extract and install LIBVMI. Add the offsets of the virtual machines to libvmi.conf. The offsets can be extracted by running the linux_offset_finder under the tools directory 
+in the virtual machine 
